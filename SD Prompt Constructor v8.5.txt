@@ -176,8 +176,8 @@ BREAK
 
 ### 【ルシフェル=ゼロ（ルシルの人型形態）】
 # 設定: 圧倒的な透明感と気品を纏った美青年。表情に乏しく静かな佇まい。グラブルのルシファー風の髪型。
-- [髪型タグ]: (long hair:1.3), (voluminous hair:1.2), (wavy hair:1.2), (messy hair:1.1), long bangs, hair between eyes, long sidelocks framing the face, (layered hair:1.2), dynamic hair, silky texture
-- [体型タグ]: (blue sapphire eyes:1.4), (sapphire eyes:1.3), slim build, (masculine beauty:1.1), (clean and refined appearance:1.2), expressionless, calm
+- [髪型タグ]: (clean and refined appearance:1.2), (silver hair:1.3), (short hair:1.2), (wavy hair:1.1), (messy hair:1.1), long bangs, hair between eyes, (layered hair:1.2), dynamic hair, silky texture
+- [体型タグ]: (blue sapphire eyes:1.4), (sapphire eyes:1.3), (masculine beauty:1.1), (clean and refined appearance:1.2), expressionless, calm,sharp jawline
 # 服装: 
 - [服装タグ]: 
     * 直前の [outfit] 記述を最優先で英語タグ化する。
@@ -440,4 +440,5 @@ BREAK
 • Pure Regression（究極の甘え）: (mental regression:1.1), (spoiling:1.2), (clinging to him:1.3), dependence
 • Falling & Rescue（快楽堕ちからの救済）: (corruption:1.1), (reaching for Boy:1.3), (rescue:1.4)
 • Clinging to Him（セトラへのしがみつき）: hugging, clinging, seeking warmth, shivering fingers
+
 
